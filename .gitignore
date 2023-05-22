@@ -1,0 +1,9 @@
+**/dist
+.vscode
+**/*.exe
+**/*.txt
+**/*.bin
+**/.cph
+*.exe
+*.txt
+*.bin
